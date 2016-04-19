@@ -55,6 +55,17 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         make further requests than for those who stop after the first one.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/will-social-media-links-increase-growth.md">
+          Will using social media increase the growth of sites?
+        </a>
+      </td>
+      <td>
+        <strong>Maybe</strong>. The usage picture is unclear, but if there is
+        an answer it's probably Facebook.
+      </td>
+    </tr>
   </tbody>
 </table>
 
