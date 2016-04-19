@@ -42,6 +42,29 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Yes</strong>. Most were warm to the idea.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/is-increase-in-foi-charges-discouraging-people-from-using-kimittud.md">
+          Is an increase in FOI charges discouraging people from using KiMitTud?
+        </a>
+      </td>
+      <td>
+        <strong>Maybe</strong>. The perception of users might have changed, but the behaviour of authorities is unchanged.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="experiments/does-the-authority-response-influence-whether-requester-makes-second-request.md">
+          Does the response from the authority influence whether a requester
+          makes another request?
+        </a>
+      </td>
+      <td>
+        <strong>Yes</strong>. There is a higher success rate (and a marginally
+        lower "unresolved" rate) for the first requests of people who go on to
+        make further requests than for those who stop after the first one.
+      </td>
+    </tr>
   </tbody>
 </table>
 
