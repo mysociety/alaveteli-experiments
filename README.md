@@ -66,6 +66,16 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         an answer it's probably Facebook.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/which-were-the-top-referrers-for-early-wdtk.md">
+          Which were the top referrers when WDTK first launched?
+        </a>
+      </td>
+      <td>
+        <strong>Unknown</strong>. We don't hold data going back that far.
+      </td>
+    </tr>
   </tbody>
 </table>
 
