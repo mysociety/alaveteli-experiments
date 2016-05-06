@@ -88,6 +88,16 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         "<a href="https://www.google.co.uk/webmasters/tools/mobile-friendly/">mobile-friendly</a>".
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/which-countries-support-commercial-use.md">
+          Which countries' FOI law supports commercial use?
+        </a>
+      </td>
+      <td>
+        <strong>All</strong> that we've asked so far.
+      </td>
+    </tr>
   </tbody>
 </table>
 
