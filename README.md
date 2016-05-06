@@ -76,6 +76,18 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Unknown</strong>. We don't hold data going back that far.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/has-upgrading-asktheeu-to-responsive-theme-improved-usage.md">
+          Has upgrading AskTheEU.org to the responsive theme had an impact on
+          usage numbers?
+        </a>
+      </td>
+      <td>
+        <strong>Yes</strong>. Bounce rate has decreased and site is now
+        "<a href="https://www.google.co.uk/webmasters/tools/mobile-friendly/">mobile-friendly</a>".
+      </td>
+    </tr>
   </tbody>
 </table>
 
