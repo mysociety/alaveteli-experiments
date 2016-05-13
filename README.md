@@ -98,6 +98,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>All</strong> that we've asked so far.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/does-requirement-to-log-in-before-starting-decrease-conversion.md">
+          Does the requirement to log in before starting the request process decrease conversions?
+        </a>
+      </td>
+      <td>
+        <strong>Yes</strong>
+      </td>
+    </tr>
   </tbody>
 </table>
-
