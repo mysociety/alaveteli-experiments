@@ -108,5 +108,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Yes</strong>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/what-proportion-of-users-enter-on-the-homepage.md">
+          What proportion of users enter on the homepage?
+        </a>
+      </td>
+      <td>
+        <strong>15-20%</strong>
+      </td>
+    </tr>
   </tbody>
 </table>
