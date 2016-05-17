@@ -118,5 +118,17 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>15-20%</strong>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/will-promoting-the-classification-game-drive-traffic.md">
+          Will promoting the classification game help drive traffic?
+        </a>
+      </td>
+      <td>
+        <strong>Maybe.</strong> The classification game does not get many
+        visitors but some sites have such a high classification rate that there
+        would be very little that a passing classifier could do.
+      </td>
+    </tr>
   </tbody>
 </table>
