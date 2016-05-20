@@ -130,5 +130,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         would be very little that a passing classifier could do.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/are-some-traffic-sources-better-for-requests.md">
+          Are some sources of traffic better in terms of people making requests?
+        </a>
+      </td>
+      <td>
+        <strong>Social Media.</strong> A small but valuable resource?
+      </td>
+    </tr>
   </tbody>
 </table>
