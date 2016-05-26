@@ -140,5 +140,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Social Media.</strong> A small but valuable resource?
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/are-people-using-the-social-media-links.md">
+          Is anybody clicking the social media links on the site?
+        </a>
+      </td>
+      <td>
+        <strong>Yes. But it's only a small percentage of visitors.</strong> On WDTK - we don't have data for any other sites yet.
+      </td>
+    </tr>
   </tbody>
 </table>
