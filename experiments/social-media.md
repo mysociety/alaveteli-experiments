@@ -2,9 +2,12 @@
 ### Overall
 
 #### Top conversions (make a request)
-    | Page | Count | Rate | Source(s)
---- | ---- | ---------------: | --------------- | --------- 
- 1  | [is_glyphosate_safe_we_have_the_r](http://www.asktheeu.org/en/request/is_glyphosate_safe_we_have_the_r/new) | 34 | 100% | <table><tr><td>Twitter</td><td>27</td></tr><td>Facebook (mobile)</td><td>5</td></tr><tr><td>Facebook</td><td>2</td></tr></table>
+    | Page | Count | Rate | Twitter | Facebook |
+--- | ---- | ----: | ---: | ------- | Facebook | 
+ 1  | [is_glyphosate_safe_we_have_the_r](http://www.asktheeu.org/en/request/is_glyphosate_safe_we_have_the_r/new) | 34 | 100% | 27 | 7
+
+
+
  2  | [/](http://www.asktheeu.org/)    | 3  | 3.12% | Twitter
  3  | [background_paper_a_digital_trade](http://www.asktheeu.org/en/request/background_paper_a_digital_trade/new) | 2  | 100%  | Twitter
  4  | [sion_simon_mep_expenses](http://www.asktheeu.org/en/request/sion_simon_mep_expenses/new) | 2  | 100% | Twitter
