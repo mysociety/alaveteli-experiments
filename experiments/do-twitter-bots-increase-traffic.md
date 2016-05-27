@@ -28,7 +28,7 @@ Between January 2009 and February 2016 only **0.01%** of site traffic came from 
 
 ### KiMitTud (Hungary)
 
-We've also set up [@Ki_Mit_Tud_Bot](https://twitter.com/Ki_Mit_Tud_Bot) to try the same in Hungary. We don't have enough data yet to know whether this has had any effect.
+We've also set up [@Ki_Mit_Tud_Bot](https://twitter.com/Ki_Mit_Tud_Bot) to try the same in Hungary. Between March 2016 and 26 May 2016 0% of traffic came from `/request_event/` URLs, therefore no traffic has come from Twitterbot. 
 
 
 
