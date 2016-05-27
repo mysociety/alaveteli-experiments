@@ -3,18 +3,18 @@
 
 #### Top conversions (make a request)
     | Page | Count | Rate | Twitter | Facebook (mobile) | Facebook (web)
---- | ---- | ----: | ---: | ------- | ----------------- | -------------- 
+--- | ---- | ----: | ---: | ------: | ----------------: | -------------: 
  1  | [is_glyphosate_safe_we_have_the_r](http://www.asktheeu.org/en/request/is_glyphosate_safe_we_have_the_r/new) | 34 | 100% | 27 | 5 | 2 
- 2  | [/](http://www.asktheeu.org/)    | 3  | 3.12% | Twitter
- 3  | [background_paper_a_digital_trade](http://www.asktheeu.org/en/request/background_paper_a_digital_trade/new) | 2  | 100%  | Twitter
+ 2  | [/](http://www.asktheeu.org/)    | 3  | 3.12% | 3
+ 3  | [background_paper_a_digital_trade](http://www.asktheeu.org/en/request/background_paper_a_digital_trade/new) | 2  | 100%  | 2
  4  | [sion_simon_mep_expenses](http://www.asktheeu.org/en/request/sion_simon_mep_expenses/new) | 2  | 100% | Twitter
- 5  | [/en/list/all](http://www.asktheeu.org/en/list/all) | 1 | 50% | Twitter
+ 5  | [/en/list/all](http://www.asktheeu.org/en/list/all) | 1 | 50% | 1
  6  | [/en/profile/sign_in?token=lwo3nv401lsnwt1c99f](http://www.asktheeu.org/en/profile/sign_in?token=lwo3nv401lsnwt1c99f)<br />(redirects to following the "glyphosate" link in row 1)| 1 | 100% | Twitter
- 7  | [/en/request/2770/widget/new](http://www.asktheeu.org/en/request/2770/widget/new) | 1  | 100% | Twitter
- 8  | [documents_inter_service_consulta_2](http://www.asktheeu.org/en/request/documents_inter_service_consulta_2/new) | 1  | 100% | Twitter
- 9  | [legal_advice_andor_analysis_of_t_2](http://www.asktheeu.org/en/request/legal_advice_andor_analysis_of_t_2/new) | 1  | 100% | Twitter
-10  | [legal_advice_andor_analysis_of_t](http://www.asktheeu.org/en/request/legal_advice_andor_analysis_of_t?nocache=incoming-9598) | 1  | 100% | Twitter
-11  | [/request/2691/widget/new](http://www.asktheeu.org/request/2691/widget/new) | 1  | 100% | Twitter 
+ 7  | [/en/request/2770/widget/new](http://www.asktheeu.org/en/request/2770/widget/new) | 1  | 100% | 1
+ 8  | [documents_inter_service_consulta_2](http://www.asktheeu.org/en/request/documents_inter_service_consulta_2/new) | 1  | 100% | 1
+ 9  | [legal_advice_andor_analysis_of_t_2](http://www.asktheeu.org/en/request/legal_advice_andor_analysis_of_t_2/new) | 1  | 100% | 1
+10  | [legal_advice_andor_analysis_of_t](http://www.asktheeu.org/en/request/legal_advice_andor_analysis_of_t?nocache=incoming-9598) | 1  | 100% | 1
+11  | [/request/2691/widget/new](http://www.asktheeu.org/request/2691/widget/new) | 1  | 100% | 1 
 
 ### Twitter
 
