@@ -130,5 +130,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         would be very little that a passing classifier could do.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/test-writeup.md">
+          Test writeup
+        </a>
+      </td>
+      <td>
+        <strong>No.</strong> just test
+      </td>
+    </tr>
   </tbody>
 </table>
