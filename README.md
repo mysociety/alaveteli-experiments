@@ -180,5 +180,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>30%–50% of users do nothing</strong>. 20%–25% make a single request. 15%-20% are requesters, followed by followers (5%–13%) and commenters (0.5%–2%).
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/are-the-widgets-effective.md">
+          Are the widgets effective in growing the site?
+        </a>
+      </td>
+      <td>
+        <strong>No.</strong> Not enough traffic to make an impact.
+      </td>
+    </tr>
   </tbody>
 </table>
