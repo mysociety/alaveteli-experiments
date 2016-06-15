@@ -6,4 +6,4 @@ Can people make FOI requests on behalf of a company or other organisation?
 - Croatia: Yes
 - Czech Republic: Yes
 - Hungary: Yes
-- NZ: ?
+- NZ: Yes
