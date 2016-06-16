@@ -150,14 +150,24 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Yes. But it's only a small percentage of visitors.</strong> On WDTK - we don't have data for any other sites yet.
       </td>
     </tr>
-<tr>
+    <tr>
       <td>
         <a href="experiments/are-people-using-the-social-media-links.md">
           Can we drive traffic to AsktheEU from our newsletter/blog post?
         </a>
       </td>
       <td>
-        <strong>Yes. But only a very, very small number.</strong> 
+        <strong>Yes. But only a very, very small number.</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="experiments/what-are-popular-topics-on-alaveteli-sites.md">
+          What are popular topics on Alaveteli sites?
+        </a>
+      </td>
+      <td>
+        <strong>This is hard to answer currently.</strong> But contracts and costs are popular across sites.
       </td>
     </tr>
   </tbody>
