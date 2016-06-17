@@ -170,5 +170,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>This is hard to answer currently.</strong> But contracts and costs are popular across sites.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/user-personas.md">
+          What are the different user personas that use an Alaveteli?
+        </a>
+      </td>
+      <td>
+        <strong>30%–50% of users do nothing</strong>. 20%–25% make a single request. 15%-20% are requesters, followed by followers (5%–13%) and commenters (0.5%–2%).
+      </td>
+    </tr>
   </tbody>
 </table>
