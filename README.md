@@ -152,6 +152,18 @@ A collection of experiments and research to learn about what makes an Alaveteli 
     </tr>
     <tr>
       <td>
+        <a href="experiments/more-social-media-analysis.md">
+          Which pages are being linked to on social media? And does that
+          explain the high conversion rate?
+        </a>
+      </td>
+      <td>
+        <strong>A handful of request pages.</strong> We have some concerns about
+        the accuracy of the apparent conversion rates though.
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="experiments/can-we-drive-traffic-to-AsktheEU-from-our-newsletter-and-blog-post.md">
           Can we drive traffic to AsktheEU from our newsletter/blog post?
         </a>
