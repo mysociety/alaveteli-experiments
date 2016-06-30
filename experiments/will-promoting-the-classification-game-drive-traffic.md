@@ -17,14 +17,17 @@ In late February 2016, the overall picture looked like this:
 
 | Country | Percentage categorised | Unclassified requests | 
 | ------- | ---------------------: | --------------------: |
-| Australia      | 99.94% |    1 |
-| Croatia        | 99.70% |    3 |
-| Czech Republic | 95.52% |  214 |
-| Hungary        | 91.44% |  529 |
-| The EU         | 87.19% |  334 | 
-| Ukraine        | 66.34% | 3148 |
+| Australia      | 99.94% |      1 |
+| Croatia        | 99.70% |      3 |
+| Czech Republic | 95.52% |    214 |
+| Hungary        | 91.44% |    529 |
+| The EU         | 87.19% |    334 |
+| Ukraine        | 66.34% |  3,148 |
+| UK\*           | 90.47% | 32,631 |
  
-All the Gold Level sites (which excludes Ukraine) have an above 85%
+\*UK figures are from late June 2016
+
+All the Gold Level sites (which excludes Ukraine and the UK) have an above 85%
 categorisation rate, which is encouraging, but with Australia and Croatia in
 particular in a position where directing new people to the categorisation game
 could result in them having very little - if anything - to do.
