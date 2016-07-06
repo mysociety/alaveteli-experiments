@@ -190,5 +190,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>No.</strong> Not enough traffic to make an impact.
       </td>
     </tr>
+<tr>
+      <td>
+        <a href="experiments/are-the-widgets-effective.md">
+          Can we drive traffic from WDTK to AskTheEU?
+        </a>
+      </td>
+      <td>
+        <strong>Yes.</strong> Placing boxes advertising AsktheEU on WDTK has increased traffic and transactions on AsktheEU. 7.67% of all traffic came from WDTK.
+      </td>
+    </tr>
   </tbody>
 </table>
