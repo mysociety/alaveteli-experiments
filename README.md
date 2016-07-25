@@ -212,6 +212,14 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Yes.</strong> Placing boxes advertising AsktheEU on WDTK has increased traffic and transactions on AsktheEU. 7.67% of all traffic came from WDTK.
       </td>
     </tr>
+    <td>
+      <a href="experiments/similar-requests-usage.md">
+        Is the "similar requests" sidebar a valuable source of traffic?
+      </a>
+    </td>
+    <td>
+      <strong>Yes.</strong> 10% of traffic to request pages comes through the similar requests. Engagement is also increased.
+    </td>
     <tr>
       <td>
         <a href="experiments/where-do-users-find-our-sites.md">
