@@ -9,11 +9,41 @@ leading the pack these days in nearly all territories) and a smaller group which
 get referrals from more diverse sources, typically a mix of partner
 organisations, campaign groups and news sites.
 
-Typically referral traffic only accounts for between 7 and 13 percent of sessions
-to any of the sites we have looked at (as of February 2016) although further
+### Aggregated per-sector percentages for 2016-01-26 - 2016-02-26
+
+| Sector         | Average | Max   | Min  |
+| -------------- | ------: | ----: | ---: |
+| Social Media   | 33.96% | 50.15% | 14.49% |
+| News           |  7.43% | 20.78% | 16.35% |
+| Partner Org    |  6.27% | 25.44% |  5.92% |
+| Campaign Group |  4.61% | 23.06% | 23.06% |
+| Civic Tech     |  3.12% |  5.65% |  4.82% |
+| Portal         |  2.16% | 10.81% | 10.81% |
+| App*           |  2.12% | 10.60% | 10.60% |
+| Search Engine  |  1.32% |  6.58% |  6.58% |
+| Gov Data Portal|  1.20% |  6.01% |  6.01% |
+| Forum          |  0.57% |  2.86% |  2.86% |
+
+\* as [noted below](#recent-month-2016-01-26---2016-02-26-1), this looks like it may be test data
+
+Please note that the table was produced by naively comparing averages so it
+doesn't take differences in traffic volume between sites into account.
+
+The per-country breakdowns (below) also seem to suggest that newer sites
+initially get a higher percentage of their referred traffic from partner sites
+to be replaced by social media and/or news as they attract more visitors, although
+we'd need to look more closely at how the data changes over time to see if that's
+correct.
+
+Typically referral traffic only accounts for between __7 and 13 percent of sessions__
+on any of the sites we have looked at (as of February 2016) although further
 analysis should reveal whether this changes as a site grows - our working theory
 is that once a sizeable amount of high quality content is published on the site,
-search traffic starts to take over - or remains fairly constant.
+search traffic starts to take over - or remains fairly constant (although search
+is listed as a referral source here, this appears to be an anomaly in the way
+that Google counts referrals (notably from rivals like Yahoo or DuckDuckGo) -
+the vast majority of search traffic is reported in its own separate category,
+accounting for 61 - 81% of sessions across the sites covered.
 
 ## Analysis
 
