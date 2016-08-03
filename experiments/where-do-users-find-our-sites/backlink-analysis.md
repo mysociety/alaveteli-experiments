@@ -16,6 +16,13 @@ the complex calculation that Google (and others) use to work out their search
 rankings so it's worth encouraging people to write about us whether there's a
 directly measurable effect in the Google Analytics referrer table or not.
 
+On the whole there is not much effect on referrals from all these links, with
+the following notable exceptions:
+
+* corporateeurope.org accounts for 7.72% of referral traffic to the EU site
+* atlatszo.org accounts for 10.70% of referral traffic to Hungary's Alaveteli
+* codeforcroatia.org accounts for 13.47% of referral traffic for Croatia
+
 ## Analysis
 
 Figures are from 26th February 2016 unless otherwise stated.
