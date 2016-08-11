@@ -212,5 +212,16 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Yes.</strong> Placing boxes advertising AsktheEU on WDTK has increased traffic and transactions on AsktheEU. 7.67% of all traffic came from WDTK.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/where-do-users-find-our-sites.md">
+          Where is our existing traffic being referred from? Where might there
+          be potential users that we're not currently reaching?
+        </a>
+      </td>
+      <td>
+        <strong>Predominantly social media.</strong> Sites with a strong journalistic focus get a greater proportion of traffic from news and campaign sites.
+      </td>
+    </tr>
   </tbody>
 </table>
