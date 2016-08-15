@@ -223,5 +223,15 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>Predominantly social media.</strong> Sites with a strong journalistic focus get a greater proportion of traffic from news and campaign sites.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="experiments/effect-of-listing-successes-on-asktheeu-homepage.md">
+          Does showing recent successful requests on the homepage increase conversion rate?
+        </a>
+      </td>
+      <td>
+        <strong>No.</strong>
+      </td>
+    </tr>
   </tbody>
 </table>
