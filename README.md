@@ -241,7 +241,7 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>No.</strong>
       </td>
     </tr>
-<tr>
+    <tr>
       <td>
         <a href="experiments/using-facebook-advertising-right-to-know-day.md">
           Does using Facebook advertising on Right To Know day drive usage of Alaveteli sites?
@@ -249,7 +249,17 @@ A collection of experiments and research to learn about what makes an Alaveteli 
       </td>
       <td>
         <strong>Yes</strong>, Facebook ads helped to bring new users to sites, but in the majority of cases it was only a small number. Overall, 0.5% of people who saw the ads then visited an Alaveteli website.
-Only one person went on to make a request after seeing a Facebook advert. However, there are indications that using Facebook ads in Uganda has led to sustained higher usage levels of the site afterwards.</strong>
+        Only one person went on to make a request after seeing a Facebook advert. However, there are indications that using Facebook ads in Uganda has led to sustained higher usage levels of the site afterwards.</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="experiments/what-factors-caused-wdtk-to-grow.md">
+          What factors caused WhatDoTheyKnow to grow?
+        </a>
+      </td>
+      <td>
+        Lots of things, but mainly <strong>Google Adwords</strong> (and SEO optimisation) and lots of <strong>press coverage</strong>.
       </td>
     </tr>
   </tbody>
