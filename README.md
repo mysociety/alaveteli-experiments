@@ -241,5 +241,16 @@ A collection of experiments and research to learn about what makes an Alaveteli 
         <strong>No.</strong>
       </td>
     </tr>
+<tr>
+      <td>
+        <a href="experiments/effect-of-listing-successes-on-asktheeu-homepage.md">
+          Using Facebook advertising on Right To Know Day: What effect does it have?
+        </a>
+      </td>
+      <td>
+        Facebook ads bring traffic/new users to Alaveteli sites, but not a lot. Only 0.5% of people who saw the ads then visited an Alaveteli website.
+Only one person went on to make a request after seeing a Facebook advert.</strong>
+      </td>
+    </tr>
   </tbody>
 </table>
