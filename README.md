@@ -244,12 +244,12 @@ A collection of experiments and research to learn about what makes an Alaveteli 
 <tr>
       <td>
         <a href="experiments/effect-of-listing-successes-on-asktheeu-homepage.md">
-          Using Facebook advertising on Right To Know Day: What effect does it have?
+          Does using Facebook advertising on Right To Know day drive usage of Alaveteli sites?
         </a>
       </td>
       <td>
-        Facebook ads bring traffic/new users to Alaveteli sites, but not a lot. Only 0.5% of people who saw the ads then visited an Alaveteli website.
-Only one person went on to make a request after seeing a Facebook advert.</strong>
+        <strong>Yes</strong>, Facebook ads helped to bring new users to sites, but in the majority of cases it was only a small number. Overall, 0.5% of people who saw the ads then visited an Alaveteli website.
+Only one person went on to make a request after seeing a Facebook advert. However, there are indications that using Facebook ads in Uganda has led to sustained higher usage levels of the site afterwards.</strong>
       </td>
     </tr>
   </tbody>
