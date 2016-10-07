@@ -243,7 +243,7 @@ A collection of experiments and research to learn about what makes an Alaveteli 
     </tr>
 <tr>
       <td>
-        <a href="experiments/effect-of-listing-successes-on-asktheeu-homepage.md">
+        <a href="experiments/using-facebook-advertising-right-to-know-day.md">
           Does using Facebook advertising on Right To Know day drive usage of Alaveteli sites?
         </a>
       </td>
