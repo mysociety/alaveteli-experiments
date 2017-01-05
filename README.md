@@ -314,5 +314,17 @@ know what the results were.
         No. Only a handful of visitors came through the links.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/19">
+          Does a new Alaveteli with ~100 pre-seeded requests grow better?
+        </a>
+      </td>
+      <td>
+        <strong>It won't grow without them.</strong> Initial requests are not a
+        direct growth mechanism – you need marketing too – but no Alaveteli has
+        lots of traffic but a low number of requests.
+      </td>
+    </tr>
   </tbody>
 </table>
