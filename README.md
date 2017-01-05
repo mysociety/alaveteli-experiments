@@ -359,5 +359,15 @@ know what the results were.
         people are interested.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/105">
+          How long did it take for WDTK to hit target level?
+        </a>
+      </td>
+      <td>
+        <strong>6-9 months.</strong>
+      </td>
+    </tr>
   </tbody>
 </table>
