@@ -299,5 +299,15 @@ Experiments should generally be focused around three areas:
         <strong>Yes</strong>, but this got <a href="https://git.io/vMs1v">complicated</a>.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/18">
+          Can increase traffic through a series of blog posts?
+        </a>
+      </td>
+      <td>
+        No. Only a handful of visitors came through the links.
+      </td>
+    </tr>
   </tbody>
 </table>
