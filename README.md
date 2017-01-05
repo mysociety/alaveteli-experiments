@@ -289,5 +289,15 @@ Experiments should generally be focused around three areas:
         Not significantly, but it can bring lower numbers of very engaged users.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/48">
+          Can we use the <code>PublicBody#notes</code> field to improve Adwords traffic?
+        </a>
+      </td>
+      <td>
+        <strong>Yes</strong>, but this got <a href="https://git.io/vMs1v">complicated</a>.
+      </td>
+    </tr>
   </tbody>
 </table>
