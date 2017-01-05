@@ -21,6 +21,11 @@ Experiments should generally be focused around three areas:
 
 ## Results
 
+A summary of results from what we've tried so far. These results show what we
+found given the experiment conditions. They are by no means definitive. We
+encourage you to try and tweak these experiments for your Alaveteli, and let us
+know what the results were.
+
 <table>
   <thead>
     <tr>
