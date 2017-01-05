@@ -1,6 +1,23 @@
 # Alaveteli Experiments
 
-A collection of experiments and research to learn about what makes an Alaveteli grow.
+A collection of experiments and research to learn about what makes an Alaveteli
+grow.
+
+An "experiment" is an iteration of the "Build → Measure → Learn" cycle from
+[The Lean Startup](http://theleanstartup.com/).
+
+![Build, Measure, Learn Cycle diagram](http://i.imgur.com/F95UZdm.png)
+
+Experiments should ideally return a **yes** or **no** answer, or return a single
+number in answer to a question, e.g. 89%.
+
+Experiments are here to change our behaviour, and consequently, what we build.
+
+Experiments should generally be focused around three areas:
+
+- **Acquisition:** Get new users
+- **Engagement:** Keep users using
+- **Retention:** Stop users leaving
 
 ## Results
 
