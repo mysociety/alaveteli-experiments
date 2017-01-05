@@ -326,5 +326,15 @@ know what the results were.
         lots of traffic but a low number of requests.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/58">
+          How much traffic comes to RightToKnow.org.au through Adwords?
+        </a>
+      </td>
+      <td>
+        <strong>12.79%</strong> in June 2016.
+      </td>
+    </tr>
   </tbody>
 </table>
