@@ -346,5 +346,18 @@ know what the results were.
         <strong>25.54%</strong> between 20 March 2016 and 27 September 2016.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/98">
+          Do prominent donation banners increase donations?
+        </a>
+      </td>
+      <td>
+        <strong>Yes.</strong> We saw a 23.5% increase in visits to our donation
+        page from WhatDoTheyKnow over the 2016 Christmas donation drive. We
+        don't know how many extra conversions that resulted in, but it shows
+        people are interested.
+      </td>
+    </tr>
   </tbody>
 </table>
