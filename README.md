@@ -279,5 +279,15 @@ Experiments should generally be focused around three areas:
         Lots of things, but mainly <strong>Google Adwords</strong> (and SEO optimisation) and lots of <strong>press coverage</strong>.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/94">
+          Does commenting on news articles encourage traffic?
+        </a>
+      </td>
+      <td>
+        Not significantly, but it can bring lower numbers of very engaged users.
+      </td>
+    </tr>
   </tbody>
 </table>
