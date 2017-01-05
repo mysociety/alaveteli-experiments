@@ -336,5 +336,15 @@ know what the results were.
         <strong>12.79%</strong> in June 2016.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mysociety/alaveteli-experiments/issues/60">
+          How much traffic comes to KiMiTud through Adwords?
+        </a>
+      </td>
+      <td>
+        <strong>25.54%</strong> between 20 March 2016 and 27 September 2016.
+      </td>
+    </tr>
   </tbody>
 </table>
