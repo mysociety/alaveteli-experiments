@@ -369,5 +369,16 @@ know what the results were.
         <strong>6-9 months.</strong>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/openaustralia/righttoknow/issues/661">
+          Adwords A/B: “FOI made easy” vs “Freedom of Information Made Easy”
+        </a>
+      </td>
+      <td>
+        <strong>“Freedom of Information Made Easy”</strong> has around double
+        the CTR and slightly higher average position when tested on RightToKnow.
+      </td>
+    </tr>
   </tbody>
 </table>
