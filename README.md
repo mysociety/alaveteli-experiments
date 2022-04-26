@@ -180,7 +180,7 @@ know what the results were.
         </a>
       </td>
       <td>
-        <strong>Yes</strong>, but this got <a href="https://git.io/vMs1v">complicated</a>.
+        <strong>Yes</strong>, but this got <a href="https://github.com/mysociety/alaveteli-experiments/issues/48#issuecomment-264899954">complicated</a>.
       </td>
     </tr>
     <tr>
