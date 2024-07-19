@@ -43,8 +43,8 @@ I counted the requests in different categories for the 6 month periods before an
       <td>2109</td>
       <td>2166</td>
       <td>
-        <a href="http://goo.gl/sMmHbC">Before</a><br />
-        <a href="http://goo.gl/rey8lH">After</a>
+        <a href="https://kimittud.hu/list/all?utf8=%E2%9C%93&query&request_date_after=01/02/2015&request_date_before=01/07/2015&commit=Keres%C3%A9s">Before</a><br />
+        <a href="https://kimittud.hu/list/all?utf8=%E2%9C%93&query&request_date_after=01/07/2015&request_date_before=01/01/2016&commit=Keres%C3%A9s">After</a>
       </td>
     </tr>
     <tr>
@@ -52,8 +52,8 @@ I counted the requests in different categories for the 6 month periods before an
       <td>1420</td>
       <td>1484</td>
       <td>
-        <a href="http://goo.gl/chy3Gl">Before</a><br />
-        <a href="http://goo.gl/HC5saK">After</a>
+        <a href="https://kimittud.hu/list/successful?utf8=%E2%9C%93&query&request_date_after=01/02/2015&request_date_before=01/07/2015&commit=Keres%C3%A9s">Before</a><br />
+        <a href="https://kimittud.hu/list/successful?utf8=%E2%9C%93&query&request_date_after=01/07/2015&request_date_before=01/01/2016&commit=Keres%C3%A9s">After</a>
       </td>
     </tr>
     <tr>
@@ -61,8 +61,8 @@ I counted the requests in different categories for the 6 month periods before an
       <td>312</td>
       <td>291</td>
       <td>
-        <a href="http://goo.gl/V1EUYh">Before</a><br />
-        <a href="http://goo.gl/03Dkzl">After</a>
+        <a href="https://kimittud.hu/list/unsuccessful?utf8=%E2%9C%93&query&request_date_after=01/02/2015&request_date_before=01/07/2015&commit=Keres%C3%A9s">Before</a><br />
+        <a href="https://kimittud.hu/list/unsuccessful?utf8=%E2%9C%93&query&request_date_after=01/07/2015&request_date_before=01/01/2016&commit=Keres%C3%A9s">After</a>
       </td>
     </tr>
     <tr>
@@ -70,8 +70,8 @@ I counted the requests in different categories for the 6 month periods before an
       <td>775</td>
       <td>836</td>
       <td>
-        <a href="http://goo.gl/uo0L91">Before</a><br />
-        <a href="http://goo.gl/lgsUld">After</a>
+        <a href="https://kimittud.hu/list/awaiting?utf8=%E2%9C%93&query&request_date_after=01/02/2015&request_date_before=01/07/2015&commit=Keres%C3%A9s">Before</a><br />
+        <a href="https://kimittud.hu/list/awaiting?utf8=%E2%9C%93&query&request_date_after=01/07/2015&request_date_before=01/01/2016&commit=Keres%C3%A9s">After</a>
       </td>
     </tr>
   </tbody>
